@@ -8,3 +8,5 @@ The steps followed in the jupyter notebook are as follows :
 2. Data preprocessing
 3. Data modelling (Function definition)
 4. Model Evaluation
+
+#### NOTE : This repository also consists of a text file containg the code written in jupyter notebook. 
